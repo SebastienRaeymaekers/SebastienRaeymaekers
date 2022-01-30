@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, welcome to my github profile! 👋
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastienRaeymaekers&layout=compact&langs_count=8)
 
