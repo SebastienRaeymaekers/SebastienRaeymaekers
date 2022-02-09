@@ -3,7 +3,7 @@
 I'm a computer science student specializing in Artificial Intelligence based in Leuven, Belgium. <br/>
 
 
-### Working with
+### Working with:
 
 <a name="learning-now"></a>
 
@@ -17,7 +17,7 @@ I'm a computer science student specializing in Artificial Intelligence based in 
 
 <a name="learning-next"></a>
 
-### Currently learning
+### Currently learning:
 
 [<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Firebase logo" title="Firebase" height="25" />][learning_now_anchor]
 &nbsp;
@@ -29,7 +29,7 @@ I'm a computer science student specializing in Artificial Intelligence based in 
 [learning_next_anchor]: #learning-next
 
 
-### Github stats
+### Github stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastienRaeymaekers)](https://github.com/anuraghazra/github-readme-stats)
 
