@@ -38,3 +38,7 @@ Computer science student specializing in Artificial Intelligence based in Leuven
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastienRaeymaekers)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastienRaeymaekers&layout=compact&langs_count=8)
+
+<!---
+https://dev.to/envoy_/150-badges-for-github-pnk
+-->
