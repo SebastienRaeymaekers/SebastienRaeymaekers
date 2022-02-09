@@ -1,6 +1,6 @@
 ## Hi there, welcome to my github profile! 👋
 
-I'm a computer science student specializing in Artificial Intelligence based in Leuven, Belgium. <br/>
+Computer science student specializing in Artificial Intelligence based in Leuven, Belgium. <br/>
 
 
 ### Working with:
