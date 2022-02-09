@@ -7,6 +7,8 @@ I'm a computer science student specializing in Artificial Intelligence based in 
 
 <a name="learning-now"></a>
 
+[<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
@@ -38,6 +40,5 @@ I'm a computer science student specializing in Artificial Intelligence based in 
 ### Github stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastienRaeymaekers)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastienRaeymaekers&layout=compact&langs_count=8)
