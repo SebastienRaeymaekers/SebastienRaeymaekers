@@ -35,6 +35,8 @@ I'm a computer science student specializing in Artificial Intelligence based in 
 [learning_next_anchor]: #learning-next
 
 
+### Github stats
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastienRaeymaekers)](https://github.com/anuraghazra/github-readme-stats)
 
 
