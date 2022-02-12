@@ -37,7 +37,9 @@ I'm a computer science student specializing in Artificial Intelligence based in 
 [learning_next_anchor]: #learning-next
 
 ### Connect with me:
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="styled-components logo" title="styled-components" height="25" />][learning_now_anchor]
+<a href="https://www.linkedin.com/in/s%C3%A9bastien-raeymaekers-33ab64182/">
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="styled-components logo" title="styled-components" height="25" />]
+</a>
 
 
 
