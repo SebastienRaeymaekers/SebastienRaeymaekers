@@ -5,7 +5,7 @@ I'm a computer science student specializing in Artificial Intelligence based in 
 
 ### Working with:
 
-<a name="learning-now"></a>
+<a name="working-with"></a>
 
 [<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
 &nbsp;
@@ -28,7 +28,7 @@ I'm a computer science student specializing in Artificial Intelligence based in 
 [<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="styled-components logo" title="styled-components" height="25" />][learning_now_anchor]
 
 
-[tech_tools_anchor]: #bonjour--
+[tech_tools_anchor]: #working-with
 [learning_now_anchor]: #learning-now
 [learning_next_anchor]: #learning-next
 
